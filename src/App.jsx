@@ -8,6 +8,7 @@ function App() {
       <MyName />
       <ProductPage />
       <h1>Demo 3.0</h1>
+      <p>this is testing of CICD workflow</p>
     </>
   )
 }
