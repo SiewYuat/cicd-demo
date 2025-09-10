@@ -7,7 +7,7 @@ function App() {
     <>
       <MyName />
       <ProductPage />
-      <h1>Demo</h1>
+      <h1>Demo 2</h1>
     </>
   )
 }
